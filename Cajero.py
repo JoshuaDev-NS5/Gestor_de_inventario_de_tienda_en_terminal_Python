@@ -254,12 +254,10 @@ def main_funcion():
      elif accion=="s":
          print("Gracias por su compra")
          break
-                
-print(Pollo.nombre)
-Pollo.nombre="Prueba"     
-print(Pollo.nombre)                 
-#main_funcion()
+                             
+main_funcion()
     
             
+
 
                         
